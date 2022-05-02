@@ -1,0 +1,8 @@
+Name,Alias,PhoneNumber,BirthDay,Anniversary,TimeZone,MessageType
+'Abc Abc',Mr Mr,'+85299998888',0502,0902,'+08',messages_special_spouse
+'Abc Abc10',Miss Ms,'+85299998888',0502,0502,'+08',message_friends_not_4_everyone
+'Abc Abc20',Mr Miss,'+85299998888',0701,0902,'+08',messages_special_spouse
+'Abc Abc23',Mr Miss,'+85299998888',1221,0801,'+08',messages_general
+'Abc Abc24',Mr Mr,'+85299998888',0705,0902,'+08',messages_general
+'Abc Abc25',Mr Mrs,'+85299998888',1221,0503,'+08',messages_good_friends
+'Abc Abc26',Miss Ms,'+85299998888',0501,0503,'+08',message_friends_not_4_everyone

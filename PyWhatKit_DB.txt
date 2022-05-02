@@ -1,0 +1,38 @@
+Date: 2/5/2022
+Time: 13:15
+Phone Number: '+85298163555'
+Message: Hey 'Motu1'. Happy BirthDay. Hope you have a great Day!
+--------------------
+Date: 2/5/2022
+Time: 13:21
+Phone Number: '+85298163555'
+Message: Hey 'Motu1'. Happy BirthDay. Hope you have a great Day!
+--------------------
+Date: 2/5/2022
+Time: 13:22
+Phone Number: '+85298163555'
+Image: C:\Users\kaush\PycharmProjects\BirthDay-Anniversary-Greetings\Images\its-your-birthday-animated-image-3-cats.gif
+Caption: Best wishes, my sweet one. May your life always shine lovelier and brighter than the candles burning on your cake today. God bless you.
+--------------------
+Date: 2/5/2022
+Time: 13:22
+Phone Number: '+85264445084'
+Message: Hey 'Sid'. Happy BirthDay. Hope you have a great Day!
+--------------------
+Date: 2/5/2022
+Time: 13:23
+Phone Number: '+85264445084'
+Image: C:\Users\kaush\PycharmProjects\BirthDay-Anniversary-Greetings\Images\birthday-Red_Bird.gif
+Caption: I know you would have been so happy if I said, “you are aging so beautifully”. But sadly. Lying is not one of my good qualities. Happy Birthday!I have prepared your birthday cake and then called the fire department to blow out the candles on your cake.
+--------------------
+Date: 2/5/2022
+Time: 13:23
+Phone Number: '+85264445084'
+Message: Hey 'Sid'. Happy Anniversary. Hope you have a great Day!
+--------------------
+Date: 2/5/2022
+Time: 13:24
+Phone Number: '+85264445084'
+Image: C:\Users\kaush\PycharmProjects\BirthDay-Anniversary-Greetings\Images\Happy-Anniversary-heart_n_flowers.jfif
+Caption: Wishing you a happy ‘you two’ day!
+--------------------

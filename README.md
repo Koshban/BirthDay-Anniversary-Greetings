@@ -1,4 +1,3 @@
-README.md
 BirthDay-Anniversary-WhatsApp-Greetings
 
 Basic Info : Generate WhatsApp message on basis of a scan of Names,BirthDay and Anniversary Dates ( in names.csv file ).
